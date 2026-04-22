@@ -1,3 +1,5 @@
+![Pipeline de analise de fraude](assets/fraud-pipeline.png)
+
 # anomaly-guard-go
 
 Mini projeto em Go para demonstrar deteccao de anomalias com tomada de decisao orientada por IA.
